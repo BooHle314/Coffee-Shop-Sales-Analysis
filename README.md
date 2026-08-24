@@ -37,13 +37,13 @@ This analysis answers four core questions:
 ├── data/
 │   └── Coffeesales_Workshop.csv        # Cleaned source dataset
 ├── architecture/
-│   └── data_flow_diagram.png           # Miro pipeline diagram
+│   └── pipeline_diagram.png           # Miro pipeline diagram
 ├── databricks/
-│   └── data_processing_notebook        # Data cleaning + SQL aggregation
+│   └── Coffee Shop Sales Analysis        # Data cleaning + SQL aggregation
 ├── excel/
 │   └── Coffeesales_Analysis.xlsx       # Dashboard & pivot analysis
 └── presentation/
-    └── CEO_Presentation.pptx           # Final PowerPoint deck
+    └── CoffeeShop_Presentation.pptx           # Final PowerPoint deck
     
 ## Methodology Summary
 
